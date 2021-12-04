@@ -1,0 +1,19 @@
+---
+title: "Assignment B4 Shiny App"
+output: github_document
+---
+
+# An application to explore the gapminder dataset
+
+This is an assignment B4 completed for UBC Stat 545B course. 
+
+The application explores the gapminder dataset contained in the gapminder package (https://cran.r-project.org/web/packages/gapminder/README.html)
+
+The app can be found at https://britttheuser.shinyapps.io/BCLAppUpdated/
+
+## Here are the functionalities of the current app:
+1. The application theme is set to be darkly
+2. A slider is available to restrict the year range and a drop down menu of combined with (continued below)
+3. A radio button to select whether to view life expectancy, population, or GDP per cap as a function of year 
+4. A dropdown menu is also available to see overviews by continent
+5. A tab to type in the country name to view
